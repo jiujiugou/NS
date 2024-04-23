@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "RPXO82E/eonoMaW1X2ZkKg9B6KKhZikZ8K83P0sEas5csgHNMyZz3D1BIG2/r0X39XXhTfQqqyQlXGkf7EOC8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\C#\\ImageExtractionExample\\ImageExtractionExample\\ImageExtractionExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jiuji\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\jiuji\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\jiuji\\.nuget\\packages\\opencvsharp4.extensions\\4.9.0.20240103\\opencvsharp4.extensions.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\jiuji\\.nuget\\packages\\opencvsharp4.runtime.win\\4.9.0.20240103\\opencvsharp4.runtime.win.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\jiuji\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\jiuji\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\jiuji\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\jiuji\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jiuji\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512",
+    "C:\\Users\\jiuji\\.nuget\\packages\\tesseract.drawing\\5.2.0\\tesseract.drawing.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ImageExtractionExample</id>
+    <version>1.0.0</version>
+    <authors>ImageExtractionExample</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Tesseract" version="5.2.0" exclude="Build,Analyzers" />
+        <dependency id="Tesseract.Drawing" version="5.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Code\C#\ImageExtractionExample\ImageExtractionExample\bin\Debug\net8.0-windows\ImageExtractionExample.runtimeconfig.json" target="lib\net8.0-windows7.0\ImageExtractionExample.runtimeconfig.json" />
+    <file src="D:\Code\C#\ImageExtractionExample\ImageExtractionExample\bin\Debug\net8.0-windows\ImageExtractionExample.dll" target="lib\net8.0-windows7.0\ImageExtractionExample.dll" />
+  </files>
+</package>
